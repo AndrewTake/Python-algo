@@ -1,6 +1,6 @@
 import unittest
 
-from solution import our_shared_values
+from minWordList import our_shared_values
 
 
 class TrulySharedValues(unittest.TestCase):
