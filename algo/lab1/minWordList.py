@@ -1,7 +1,6 @@
 # Run the tests
 # python3 -m unittest -v tests.py
 
-
 def our_shared_values(left, right):
     dict1 = {}
     dict2 = {}
